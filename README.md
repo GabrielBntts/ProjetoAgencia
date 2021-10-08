@@ -11,3 +11,7 @@ Fluxograma:
 ------------------------------------------------------------------
 # Review 07/10
 ok
+
+Diagrama UML
+
+![Diagrama UML](https://user-images.githubusercontent.com/79460887/136484411-74f51109-4f99-451b-bf0d-e5c2372d0c5c.jpg)
